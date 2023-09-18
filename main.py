@@ -1,2 +1,3 @@
-print("Hello world")
-print("Anton pisuha")
+for x in range(999)
+  print("Hello world")
+  print("Anton pisuha")
