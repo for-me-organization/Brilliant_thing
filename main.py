@@ -2,7 +2,7 @@ from datetime import datetime
 
 now = datetime.now()
 time = now.strftime('%H:%M')
-if (time == '4:20')
+if (time == '4:20'):
   print("""
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠤⣄⡀⠀⡄⠀⠀⠀⢀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠁⣍⠑⠂⢸⣷⠀⠀⠌⡰⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -24,5 +24,5 @@ if (time == '4:20')
 ⠀⡰⠋⢀⡬⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠠⣀⡈⠳⡀
 ⢎⣀⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢦⣈
   """)
-else
+else:
   print("Nothing is going on here officer.")
